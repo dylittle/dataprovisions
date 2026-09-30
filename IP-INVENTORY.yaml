@@ -14,8 +14,8 @@ name_and_location:
   local_path: (none - remote only)
 description: Empty public placeholder repository (no content).
 snapshot:
-  commit: PENDING
-  date: PENDING
+  commit: be6d23c272da8f7f49194764fd2881ae5ab390ba
+  date: '2026-09-30'
   branch: main
   definition: The commit on main that first added this file. It is recorded by a follow-up commit, which changes
     only this snapshot block.
